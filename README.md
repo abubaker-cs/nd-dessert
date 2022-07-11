@@ -1,3 +1,20 @@
+# Notes
+
+## Logs
+
+Logs have different levels which are used in different situations. The levels and their usages are
+listed below:
+
+1. Verbose: Show all log messages (the default).
+2. Debug: Show debug log messages that are useful during development only, as well as the message
+   levels lower in this list.
+3. Info: Show expected log messages for regular usage, as well as the message levels lower in this
+   list.
+4. Warn: Show possible issues that are not yet errors, as well as the message levels lower in this
+   list.
+5. Error: Show issues that have caused errors, as well as the message level lower in this list.
+6. Assert: Show issues that the developer expects should never happen.
+
 # Activity Lifecycle - DessertPusher
 
 This is the toy app for lesson 4 of

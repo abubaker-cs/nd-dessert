@@ -48,6 +48,9 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'androidx.constraintlayout:constraintlayout:2.2.0-alpha03'
+
+
+    // Timber
     implementation 'com.jakewharton.timber:timber:5.0.1'
 
     // Lifecycle components
